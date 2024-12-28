@@ -1,5 +1,5 @@
 ## 📒 Descrição
-Esse Ebook foi construído para mulheres que estão iniciando na área de Tecnologia e quais os primeiros passos a serem dados.
+Esse Ebook foi construído para mulheres que estão iniciando na área de Tecnologia e querem saber sobre os primeiros passos a serem dados.
 
 ## 🤖 Tecnologias Utilizadas no projeto:
 

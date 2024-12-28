@@ -1,7 +1,7 @@
 ## 📒 Descrição
 Esse Ebook foi construído para mulheres que estão iniciando na área de Tecnologia e quais os primeiros passos a serem dados.
 
-## Tecnologias Utilizadas no projeto:
+## 🤖 Tecnologias Utilizadas no projeto:
 
 IA Generativa ChatGPT para elaboração de conteúdo;
 
@@ -9,7 +9,7 @@ IA Generativa Copilot da Microsoft para elaboração de conteúdo;
 
 IA Leonardo.AI, Imagine.AI e Copilot da Microsoft para geração de imagens;
 
-## Processo de Criação 
+## 💻 Processo de Criação 
 
 Fui acompanhando a monitoria do Professor da DIO Felipe Aguiar no Bootcamp CAIXA - IA Generativa com Microsoft Copilot.
 
@@ -18,7 +18,7 @@ Em seguida montei o layout do ebook no Power Point e foi feita a diagramação.
 
 Para finalizar, foi convertido em PDF.
 
-## Resultados alcaçados
+## 🚀 Resultados alcaçados
 
 O ebook traz uma abordagem sobre os primeiros passos para mulheres que estão iniciando na área de tecnologia. É um guia para que essas mulheres possam se inspirar e não só iniciar, mas encontrar o fará brilhar os seus olhos e seguir essa paixão.
 

@@ -23,7 +23,8 @@ Para finalizar, foi convertido em PDF.
 
 O ebook traz uma abordagem sobre os primeiros passos para mulheres que estão iniciando na área de tecnologia. É um guia para que essas mulheres possam se inspirar e não só iniciar, mas encontrar o fará brilhar os seus olhos e seguir essa paixão.
 
-## Link projeto:
+## Link projeto: 
+https://github.com/JaneAzevedo/criando-Ebook-com-IA/blob/main/Projeto%20eBook%20Mulheres%20na%20TI.pdf
 
 ## Reflexão 
 Foi excelente, um momneto de colocar a mão na prática, trabalhar de forma mais focada eu um projeto do início ao fim, onde que pude utilizar as ferramentas e métodos apreendidos no Bootcamp e colocar vida em algo com a minha cara e autoria.
